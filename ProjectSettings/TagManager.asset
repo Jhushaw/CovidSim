@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Starter Agent
+  - Agent 1
+  - Agent 2
+  - Agent 3
+  - Agent 4
+  - Agent 5
+  - Agent 6
+  - Agent 7
   layers:
   - Default
   - TransparentFX
