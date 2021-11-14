@@ -4,14 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Starter Agent
-  - Agent 1
-  - Agent 2
-  - Agent 3
-  - Agent 4
-  - Agent 5
-  - Agent 6
-  - Agent 7
+  - wall
+  - clone
   layers:
   - Default
   - TransparentFX
@@ -21,8 +15,8 @@ TagManager:
   - UI
   - 
   - 
-  - Walls
-  - 
+  - Wall
+  - clone
   - 
   - 
   - 
